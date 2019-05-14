@@ -2,8 +2,8 @@
 
 Please use the following two endpoints:
 
-- https://jsonplaceholder.typicode.com/posts!
-- https://jsonplaceholder.typicode.com/users!
+- https://jsonplaceholder.typicode.com/posts
+- https://jsonplaceholder.typicode.com/users
 
 ### Here is the task:
 
